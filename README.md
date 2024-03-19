@@ -2,5 +2,5 @@
 CPSC-386 Group Project
 
 
-![Alt Text](https://imgur.com/D5dG6JW/giphy.gif)
+![Alt Text](https://imgur.com/yw8AUpw/giphy.gif)
 
